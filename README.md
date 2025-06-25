@@ -122,4 +122,4 @@ For questions about this project, please reach out through the contact form on t
 
 ---
 
-Built with ❤️ for empowering the next generation
+Designed and developed by Md Mojahid Hussain
